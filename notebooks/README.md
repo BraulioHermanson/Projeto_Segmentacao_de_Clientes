@@ -1,5 +1,5 @@
-# Resumo dos notebooks deste repositório
+# Summary of notebooks in this repository
 
-- Aqui é possivel encontrar os arquivos de ***EDA - Exploratory Data Analysis*** e uma análise ***Sem Tratamento Prévio dos dados***.
+- Here you can find the ***EDA - Exploratory Data Analysis*** files and an analysis ***Without Prior Data Processing***.
 
-- Boa Leitura 👊.
+- Happy Reading 👊.

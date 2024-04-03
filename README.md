@@ -1,8 +1,8 @@
-# Trabalho de Segmentação de clientes usando python
+# Customer Segmentation work using Python
 
-Um supermercado, através de cartões de fidelidade, possui alguns dados básicos sobre seus clientes, como idade, gênero, renda anual e pontuação de gastos. Tal pontuação é algo que o supermercado atribui ao cliente com base em parâmetros definidos, como comportamento do cliente e dados de compra.
+A supermarket, through loyalty cards, has some basic data about its customers, such as age, gender, annual income and spending score. Such a score is something that the supermarket assigns to the customer based on defined parameters, such as customer behavior and purchase data.
 
-O objetivo deste projeto é segmentar os clientes com base em seus dados de compra, para que o supermercado possa entender melhor os clientes e formular estratégias de negócios de acordo.
+The aim of this project is to segment customers based on their purchasing data so that the supermarket can understand customers better and formulate business strategies accordingly.
 
 > base usada: Mall_Customers.csv
 
