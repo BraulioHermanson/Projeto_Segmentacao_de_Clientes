@@ -46,8 +46,10 @@ The dataset used is the one contained in the file [`Mall_Customers.csv`](dados/M
 
 With the pipeline performing pre-processing, PCA and K-Means, the base was segmented into 5 clusters, as shown in the figures below:
 
+> Pairplot
 ![pairplot](imagens/pairplot.png)
 
+> Boxplot
 ![boxplot](imagens/boxplot.png)
 
 - Cluster 0 - moderate spending score, moderate income, high age
