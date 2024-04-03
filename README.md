@@ -1,4 +1,4 @@
-[![author](https://img.shields.io/badge/Author-Braulio;Hermanson-green.svg)](https://www.linkedin.com/in/braulio-campos-/)
+[![author](https://img.shields.io/badge/Author-Braulio&nbsp;Hermanson-green.svg)](https://www.linkedin.com/in/braulio-campos-/)
 [![](https://img.shields.io/badge/Python-3.11+-blue.svg)](https://www.python.org/)
 
 # Customer Segmentation work using Python
@@ -65,3 +65,6 @@ Transforming the points above into a table:
 | Low | High | Moderate | 2 |
 | High | Low | Young | 3 |
 | High | High | Young | 4 |
+
+### Requirements 
+[Requirements](requirements.txt)
